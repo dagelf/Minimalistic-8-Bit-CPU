@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 10
 Title "Control Logic"
-Date "2020-07-02"
-Rev "1.01"
+Date "2020-12-09"
+Rev "1.02"
 Comp "Carsten (Slu4) Herting (c) 2020"
 Comment1 ""
 Comment2 "creativecommons.org/licenses/by-nc-sa/3.0/deed.en"
@@ -57,11 +57,11 @@ Text HLabel 7350 3350 1    50   Input ~ 0
 ~OE
 Text GLabel 9000 1050 1    50   Output ~ 0
 CLOCK
-Text HLabel 2300 1600 1    50   Input ~ 0
+Text HLabel 2200 1600 1    50   Input ~ 0
 FLAG_C
 Text HLabel 2100 1600 1    50   Input ~ 0
 FLAG_N
-Text HLabel 2200 1600 1    50   Input ~ 0
+Text HLabel 2300 1600 1    50   Input ~ 0
 FLAG_Z
 $Comp
 L 74xx:74HC04 U1

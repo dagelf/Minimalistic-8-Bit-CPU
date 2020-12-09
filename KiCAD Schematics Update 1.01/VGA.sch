@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 8 10
 Title "Video Graphics Adapter"
-Date "2020-07-02"
-Rev "1.01"
+Date "2020-12-09"
+Rev "1.02"
 Comp ""
 Comment1 ""
 Comment2 "creativecommons.org/licenses/by-nc-sa/3.0/deed.en"

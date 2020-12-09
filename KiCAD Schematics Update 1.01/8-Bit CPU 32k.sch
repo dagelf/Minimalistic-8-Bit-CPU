@@ -5,8 +5,8 @@ $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 10
 Title "Slu4's Minimalistic 8-Bit Computer"
-Date "2020-07-02"
-Rev "1.01"
+Date "2020-12-09"
+Rev "1.02"
 Comp ""
 Comment1 ""
 Comment2 "creativecommons.org/licenses/by-nc-sa/3.0/deed.en"
@@ -53,8 +53,8 @@ F9 "~CI" O L 2600 4850 50
 F10 "HI" O L 2600 4700 50 
 F11 "~AI" O R 3250 4300 50 
 F12 "~AO" O R 3250 4200 50 
-F13 "~BI" O L 2600 5800 50 
-F14 "~BO" O L 2600 5900 50 
+F13 "~BI" O L 2600 5900 50 
+F14 "~BO" O L 2600 5800 50 
 F15 "~MI" O L 2600 5400 50 
 F16 "~EO" O L 2600 4200 50 
 F17 "ES" O L 2600 4300 50 
@@ -613,10 +613,6 @@ Wire Wire Line
 Wire Wire Line
 	2000 2400 2000 4550
 Wire Wire Line
-	2550 5900 2600 5900
-Wire Wire Line
-	2600 5800 2500 5800
-Wire Wire Line
 	3650 2300 3650 2250
 Wire Wire Line
 	3250 5000 6300 5000
@@ -983,4 +979,8 @@ Wire Wire Line
 Connection ~ 4750 8300
 Wire Wire Line
 	4750 8300 4750 9250
+Wire Wire Line
+	2500 5800 2600 5800
+Wire Wire Line
+	2550 5900 2600 5900
 $EndSCHEMATC
